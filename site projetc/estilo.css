@@ -1,0 +1,46 @@
+#menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  color: #ffffff;
+}
+body{
+  background: url("img/cod.jpg");
+}
+.noticia{
+  background: url("img/batlle.jpg");
+}
+.games{
+  background: url("img/ass.jpg");
+}
+img{
+  background-repeat: no-repeat;
+}
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #333;
+    border-top: 0px;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 15pt;
+}
+li a:hover {
+    background-color: #ed5c09;
+    height: 30px;
+}
+.logo{
+margin-right: 10%;
+float: left;
+}
