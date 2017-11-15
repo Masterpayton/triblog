@@ -12,7 +12,10 @@ body{
   background: url("img/batlle.jpg");
 }
 .games{
-  background: url("img/ass.jpg");
+  background: url("img/ba.jpg");
+}
+.faleconosco{
+  background: url("sniper.jpg");
 }
 img{
   background-repeat: no-repeat;
